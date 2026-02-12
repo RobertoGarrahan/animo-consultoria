@@ -4,7 +4,7 @@ Institutional website developed for **Ânimo Consultoria**, a junior consulting 
 
 The website was built using core web technologies, focusing on simplicity, responsiveness, and performance.
 
-Visit the website here: https://animo.squareweb.app/
+Visit the website here: https://animo-consultoria.vercel.app/index.html
 ---
 
 ## 🚀 Technologies Used
